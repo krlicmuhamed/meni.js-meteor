@@ -1,0 +1,3 @@
+[submodule "lib/meni.js"]
+	path = lib/meni.js
+	url = https://github.com/l0oky/meni.js

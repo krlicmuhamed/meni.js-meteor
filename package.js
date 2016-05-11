@@ -14,7 +14,7 @@ Package.onUse(function(api) {
   api.versionsFrom('1.3.2.4');
   api.use('ecmascript');
   api.use('jquery', 'client');
-  api.use('stevezhu:lodash', 'client');
+  api.use('stevezhu:lodash@4.11.1', 'client');
   api.export("meni");
   api.addFiles('lib/meni.js/meni.js', 'client');
 });

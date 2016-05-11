@@ -16,7 +16,7 @@ Package.onUse(function(api) {
   api.use('jquery', 'client');
   api.use('stevezhu:lodash', 'client');
   api.export("meni");
-  api.addFiles('lib/menu.js/meni.js', 'client');
+  api.addFiles('lib/meni.js/meni.js', 'client');
 });
 
 Package.onTest(function(api) {

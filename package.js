@@ -1,6 +1,6 @@
 Package.describe({
   name: 'l0oky:meni',
-  version: '1.0.2',
+  version: '1.0.3',
   // Brief, one-line summary of the package.
   summary: 'A convenient client javascript library for making dynamic menus',
   // URL to the Git repository containing the source code for this package.

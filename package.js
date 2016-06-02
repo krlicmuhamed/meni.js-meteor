@@ -15,7 +15,7 @@ Package.onUse(function(api) {
   api.use('ecmascript');
   api.use('jquery', 'client');
   api.use('stevezhu:lodash@4.11.1', 'client');
-  api.export("meni.js");
+  api.export("meni");
   api.addFiles('lib/meni.js/meni.js', 'client');
 });
 

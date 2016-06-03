@@ -1,8 +1,8 @@
 Package.describe({
   name: 'l0oky:meni.js',
-  version: '1.0.2',
+  version: '1.0.3',
   // Brief, one-line summary of the package.
-  summary: 'A convenient client javascript library for making dynamic tabbed menus',
+  summary: 'A convenient client javascript library for making dynamic menus',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/l0oky/meni.js-meteor.git',
   // By default, Meteor will default to using README.md for documentation.
